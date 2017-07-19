@@ -1,6 +1,6 @@
 {| class="wikitable sortable"
 |-
-|Filename||path
+|style="text-align:left; width: 20%;"|'''Filename'''||'''path'''
 |-
 |AutoGuessingForeignKeyConstraints.sql||sqlserver-kit-master\Scripts\AutoGuessingForeignKeyConstraints.sql
 |-
