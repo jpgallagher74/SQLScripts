@@ -2,3 +2,6 @@ see:
 
 *[[list of .sql files]]
 *[[RedGate's Free eBooks]]
+
+
+The source of some of this wiki is: https://sqlserver.miraheze.org/wiki/Main_Page
