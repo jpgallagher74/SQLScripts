@@ -134,7 +134,7 @@ Here is an a-z list of scripts on the wiki
 |-
 |Monitor_Deadlocks_with_Extended_Events.sql||sqlserver-kit-master\Scripts\Monitor_Deadlocks_with_Extended_Events.sql
 |-
-|New_Default_Database_Assignment_For_Any_Login_Missing_Their_Default_Database.sql||sqlserver-kit-master\Scripts\New_Default_Database_Assignment_For_Any_Login_Missing_Their_Default_Database.sql
+|New_Default_Database_Assignment_For_Any_Login<br>_Missing_Their_Default_Database.sql||sqlserver-kit-master\Scripts\New_Default_Database_Assignment_For_Any_Login_Missing_Their_Default_Database.sql
 |-
 |PowerSavingCheck.sql||sqlserver-kit-master\Scripts\PowerSavingCheck.sql
 |-
