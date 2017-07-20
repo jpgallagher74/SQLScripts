@@ -1,0 +1,60 @@
+Here are some links to free ebooks on SQL Server topics from RedGate:
+
+You can find additional titles here:
+*http://www.red-gate.com/community/books/
+
+{| class="wikitable sortable"
+|-
+! Title !! Link
+|-
+| The Art of SQL Server FILESTREAM || http://www.red-gate.com/library/the-art-of-sql-server-filestream
+|-
+| The Art of XSD || http://www.red-gate.com/library/the-art-of-xsd
+|-
+| The Best of SQLServerCentral.com Vol 7 || http://www.red-gate.com/library/the-best-of-sqlservercentral-com-vol-7
+|-
+| Brad’s Sure Guide to SQL Server Maintenance Plans || http://www.red-gate.com/library/brads-sute-guide-to-sql-server-maintenance-plans
+|-
+| Defensive Database Programming || http://www.red-gate.com/library/defensive-database-programming
+|-
+| Fundamentals Of SQL Server 2012 Replication || http://www.red-gate.com/library/fundamentals-of-sql-server-2012-replication
+|-
+| How to become an Exceptional DBA, 2nd edition || http://www.red-gate.com/library/how-to-become-an-exceptional-dba-2nd-edition
+|-
+| Inside the SQL Server Query Optimizer || http://www.red-gate.com/library/inside-the-sql-server-query-optimizer
+|-
+| Mastering SQL Server Profiler || http://www.red-gate.com/library/mastering-sql-server-profiler
+|-
+| Performance Tuning With SQL Server Dynamic Management Views || http://www.red-gate.com/library/performance-tuning-with-sql-server-dynamic-management-views
+|-
+| Protecting SQL Server Data || http://www.red-gate.com/library/protecting-sql-server-data
+|-
+| The Redgate Guide to SQL Server Team-based Development || http://www.red-gate.com/library/the-redgate-guide-to-sql-server-team-based-development
+|-
+| SQL Server Backup and Restore || http://www.red-gate.com/library/sql-server-backup-and-restore
+|-
+| SQL Server Concurrency: Locking, Blocking and Row Versioning || http://www.red-gate.com/library/sql-server-concurrency-locking-blocking-and-row-versioning
+|-
+| SQL Server Execution Plans, 2nd Edition || http://www.red-gate.com/library/sql-server-execution-plans-2nd-edition
+|-
+| SQL Server Hardware || http://www.red-gate.com/library/sql-server-hardware
+|-
+| SQL Server Internals: In-Memory OLTP || http://www.red-gate.com/library/sql-server-internals-in-memory-oltp
+|-
+| SQL Server Statistics || http://www.red-gate.com/library/sql-server-statistics
+|-
+| SQL Server Stumpers Vol. 5 || http://www.red-gate.com/library/sql-server-stumpers-vol-5
+|-
+| SQL Server Tacklebox || http://www.red-gate.com/library/sql-server-tacklebox or https://www.simple-talk.com/books/sql-books/sql-server-tacklebox/
+|-
+| SQL Server Transaction Log Management || http://www.red-gate.com/library/sql-server-transaction-log-management
+|-
+| Tribal SQL || http://www.red-gate.com/library/tribal-sql
+|-
+| Troubleshooting SQL Server: A Guide for Accidental DBAs || http://www.red-gate.com/library/troubleshooting-sql-server-a-guide-for-accidental-dbas
+|-
+|}
+
+some titles may require completing a form to download
+
+[[Category:books]]
