@@ -1,3 +1,5 @@
+*from: https://sqlserver.miraheze.org/wiki/RedGate%27s_Free_eBooks
+
 Here are some links to free ebooks on SQL Server topics from RedGate:
 
 You can find additional titles here:
