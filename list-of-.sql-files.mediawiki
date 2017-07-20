@@ -1,5 +1,7 @@
 Here is an a-z list of scripts on the wiki
 
+*Test
+
 {| class="wikitable sortable"
 |-
 ! File !! Path
@@ -392,4 +394,5 @@ Here is an a-z list of scripts on the wiki
 |-
 |}
 
+[[category:sql scripts]]
 return to: [[home]]
