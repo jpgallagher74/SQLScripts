@@ -1,3 +1,5 @@
+Here is an a-z list of scripts on the wiki
+
 {| class="wikitable sortable"
 |-
 ! File !! Path
