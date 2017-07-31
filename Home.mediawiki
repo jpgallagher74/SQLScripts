@@ -1,6 +1,9 @@
 The readme.md file has a nice list of all the tools:
 *https://github.com/ktaranov/sqlserver-kit/blob/master/Utilities/README.md
 
+Need to find/add:
+*dbatools.io
+
 see:
 
 *[[list of .sql files]]
